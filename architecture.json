@@ -1,0 +1,160 @@
+{
+  "book_id": "digital_native_philosophical_dialogue_memory_identity",
+  "title": "The Borrowed Coat",
+  "tagline": "When memories can be shared, edited, and stolen, what remains of the self?",
+  "target_words": 70000,
+  "actual_words": 74159,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Permeability of Self in Digital Intimacy",
+    "Memory as Both Archive and Fiction",
+    "The Ethics of Neural Cohabitation",
+    "Narrative Coherence in a Post-Private Mind"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Red Door",
+      "words": 3080
+    },
+    {
+      "ch": 2,
+      "title": "The Membrane",
+      "words": 3100
+    },
+    {
+      "ch": 3,
+      "title": "Dr. Thorne's Debt",
+      "words": 3050
+    },
+    {
+      "ch": 4,
+      "title": "Data Ghosts",
+      "words": 3150
+    },
+    {
+      "ch": 5,
+      "title": "The Providence Archive",
+      "words": 3000
+    },
+    {
+      "ch": 6,
+      "title": "Filter Failure",
+      "words": 3200
+    },
+    {
+      "ch": 7,
+      "title": "Cinnamon Toast and Static",
+      "words": 2950
+    },
+    {
+      "ch": 8,
+      "title": "The Unwritten Rule",
+      "words": 3100
+    },
+    {
+      "ch": 9,
+      "title": "A Live Probe",
+      "words": 3050
+    },
+    {
+      "ch": 10,
+      "title": "The Ergodics of Selfhood",
+      "words": 3300
+    },
+    {
+      "ch": 11,
+      "title": "Cross-Contamination",
+      "words": 2900
+    },
+    {
+      "ch": 12,
+      "title": "The Whispered Argument",
+      "words": 3150
+    },
+    {
+      "ch": 13,
+      "title": "Fiction and Fidelity",
+      "words": 3100
+    },
+    {
+      "ch": 14,
+      "title": "The Core Privacy Wall",
+      "words": 3000
+    },
+    {
+      "ch": 15,
+      "title": "Narrative Smoothing",
+      "words": 2950
+    },
+    {
+      "ch": 16,
+      "title": "The Bicycle Bell",
+      "words": 3200
+    },
+    {
+      "ch": 17,
+      "title": "Metallic Anticipation",
+      "words": 3050
+    },
+    {
+      "ch": 18,
+      "title": "A Cathedral of Forgotten Thoughts",
+      "words": 3100
+    },
+    {
+      "ch": 19,
+      "title": "The Ghost-Strap",
+      "words": 2900
+    },
+    {
+      "ch": 20,
+      "title": "Photolytic Degradation",
+      "words": 3150
+    },
+    {
+      "ch": 21,
+      "title": "The Ancient Human Loneliness",
+      "words": 3000
+    },
+    {
+      "ch": 22,
+      "title": "The Half-Formed Beast",
+      "words": 3100
+    },
+    {
+      "ch": 23,
+      "title": "The Relentless Heartbeat",
+      "words": 2950
+    },
+    {
+      "ch": 24,
+      "title": "Where Does *You* End?",
+      "words": 3129
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character accesses a 'borrowed' memory so vivid they act on it as if it were their own, with unforeseen consequences.",
+      "Create a dialogue between two neural-linked characters arguing over the ownership of a jointly-created memory.",
+      "Describe the moment a 'Digital Native' discovers a memory in their archive they are certain is not theirs.",
+      "Write a monologue from the perspective of an older generation character observing the Dialogues, grappling with a fundamentally changed concept of privacy and self."
+    ],
+    "technical": [
+      "Design a speculative UI/UX for a 'memory cleaning suite' that allows users to visualize and edit emotional metadata from neural captures.",
+      "Propose a protocol or 'ethical API' for a Dialogue system that defines layers of consent and permissions for memory sharing between linked minds."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Jorge Luis Borges",
+      "Ursula K. Le Guin",
+      "Philip K. Dick",
+      "Megan Giddings"
+    ]
+  },
+  "cover_prompt": "A young woman's face is partially obscured by a translucent, digital overlay of another person's smiling visage, their features merging and glitching at the edges, [she reaches a hand towards her own reflection in a rain-slicked window, but the reflection shows a different memory, a different person], in the atmospheric, emotionally resonant style of contemporary digital painters like Android Jones and James Jean, blended with the textured, psychological depth of Gerhard Richter's photo-paintings, [book cover framing, a tight, intimate portrait composition viewed from a shallow, dramatic angle as if through a surveillance lens], [volumetric, cinematic lighting with a cold, clinical blue primary palette clashing against pockets of warm, corrupted gold data-streams, high contrast between shadow and ethereal glow], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
